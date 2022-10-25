@@ -17,5 +17,11 @@ public class operacoes {
         return a-b;
     }
 
-    public float multiplicação
+    public float multiplicacao () {
+        return a*b;
+    }
+
+    public float divisao () {
+        return a/b;
+    }
 }
