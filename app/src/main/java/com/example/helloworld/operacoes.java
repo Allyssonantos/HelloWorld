@@ -8,7 +8,14 @@ public class operacoes {
         this.a = a;
         this.b = b;
     }
-    public float soma () {
 
+    public float soma () {
+        return  a+b;
     }
+
+    public float subtracao () {
+        return a-b;
+    }
+
+    public float multiplicação
 }
