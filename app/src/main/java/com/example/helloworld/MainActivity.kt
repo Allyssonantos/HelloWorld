@@ -20,6 +20,8 @@ protected void onCreate(Bundle savedInstanceState) {
         }
     });
 
-                
+                float number1 = 6;
+                float number2 = 4;
+                Operacoes operacoes
 
 }
